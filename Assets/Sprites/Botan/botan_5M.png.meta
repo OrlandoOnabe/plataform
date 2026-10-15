@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cf378eded16ca934ab90b59a01051b44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8167727627508506542
+    second: botan_5M_0
+  - first:
+      213: 7064421116308449003
+    second: botan_5M_1
+  - first:
+      213: -1781660119180605660
+    second: botan_5M_2
+  - first:
+      213: 5393000093684586600
+    second: botan_5M_3
+  - first:
+      213: -3862618707915009491
+    second: botan_5M_4
+  - first:
+      213: 8694164919399801669
+    second: botan_5M_5
+  - first:
+      213: 8844563471965101509
+    second: botan_5M_6
+  - first:
+      213: -3524742516637678840
+    second: botan_5M_7
+  - first:
+      213: -140711247433595548
+    second: botan_5M_8
+  - first:
+      213: 929764437198571862
+    second: botan_5M_9
+  - first:
+      213: -6684379027370881244
+    second: botan_5M_10
+  - first:
+      213: -6502011842211820816
+    second: botan_5M_11
+  - first:
+      213: -1742351597380843694
+    second: botan_5M_12
+  - first:
+      213: -5401204192451774800
+    second: botan_5M_13
+  - first:
+      213: -7191421390378198994
+    second: botan_5M_14
+  - first:
+      213: 6382512883364001719
+    second: botan_5M_15
+  - first:
+      213: -4976270795421548390
+    second: botan_5M_16
+  - first:
+      213: 3200233927909435833
+    second: botan_5M_17
+  - first:
+      213: 8386295597147216129
+    second: botan_5M_18
+  - first:
+      213: 1709124927813042917
+    second: botan_5M_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: botan_5M_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250263c4ff666ae80800000000000000
+      internalID: -8167727627508506542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 479
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6655d839dd90260800000000000000
+      internalID: 7064421116308449003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 479
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42782cdaf854647e0800000000000000
+      internalID: -1781660119180605660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 479
+        width: 109
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868d7b90309c7da40800000000000000
+      internalID: 5393000093684586600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 479
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2292fb00c8356ac0800000000000000
+      internalID: -3862618707915009491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ec773ee0e7a870800000000000000
+      internalID: 8694164919399801669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 319
+        width: 121
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd10e30e933eba70800000000000000
+      internalID: 8844563471965101509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 319
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80348132b59951fc0800000000000000
+      internalID: -3524742516637678840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 319
+        width: 111
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46581d0bdd71c0ef0800000000000000
+      internalID: -140711247433595548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 319
+        width: 108
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659030c54df27ec00800000000000000
+      internalID: 929764437198571862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fcc71a0b05c33a0800000000000000
+      internalID: -6684379027370881244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac49bbda634c5a0800000000000000
+      internalID: -6502011842211820816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 159
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257c74c147ce1d7e0800000000000000
+      internalID: -1742351597380843694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_13
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 159
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6bf8d57611b05b0800000000000000
+      internalID: -5401204192451774800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_14
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 159
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e289c54e850f23c90800000000000000
+      internalID: -7191421390378198994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7f343c6ad339850800000000000000
+      internalID: 6382512883364001719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908fb4b31cb0fab0800000000000000
+      internalID: -4976270795421548390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_17
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 53
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9e1374dc3896c20800000000000000
+      internalID: 3200233927909435833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_18
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 52
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109d161c96b126470800000000000000
+      internalID: 8386295597147216129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botan_5M_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2cf07011808b710800000000000000
+      internalID: 1709124927813042917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      botan_5M_0: -8167727627508506542
+      botan_5M_1: 7064421116308449003
+      botan_5M_10: -6684379027370881244
+      botan_5M_11: -6502011842211820816
+      botan_5M_12: -1742351597380843694
+      botan_5M_13: -5401204192451774800
+      botan_5M_14: -7191421390378198994
+      botan_5M_15: 6382512883364001719
+      botan_5M_16: -4976270795421548390
+      botan_5M_17: 3200233927909435833
+      botan_5M_18: 8386295597147216129
+      botan_5M_19: 1709124927813042917
+      botan_5M_2: -1781660119180605660
+      botan_5M_3: 5393000093684586600
+      botan_5M_4: -3862618707915009491
+      botan_5M_5: 8694164919399801669
+      botan_5M_6: 8844563471965101509
+      botan_5M_7: -3524742516637678840
+      botan_5M_8: -140711247433595548
+      botan_5M_9: 929764437198571862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

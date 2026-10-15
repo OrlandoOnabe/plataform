@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: dd5f2dc3ba2033f46b9cf2648bc40682
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3007180035008518517
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_0
+  - first:
+      213: -5998340766782754847
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_1
+  - first:
+      213: -4967630891573358376
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_2
+  - first:
+      213: 5006736589586290857
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_3
+  - first:
+      213: 4005972633740558103
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_4
+  - first:
+      213: 3475822692249494143
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_5
+  - first:
+      213: 4801955625582179406
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_6
+  - first:
+      213: -3930329005458377359
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_7
+  - first:
+      213: -3099340091934843333
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_8
+  - first:
+      213: 1652025701307036723
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_9
+  - first:
+      213: -2418102998482042886
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_10
+  - first:
+      213: 1896647922333578664
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_11
+  - first:
+      213: -2837033474435349202
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_12
+  - first:
+      213: -3816561740343153008
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_13
+  - first:
+      213: 3218169343357402754
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_14
+  - first:
+      213: 146911136836094328
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_15
+  - first:
+      213: -5933574213450893818
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_16
+  - first:
+      213: 5356850978158176162
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_17
+  - first:
+      213: 2013131806535147684
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_18
+  - first:
+      213: -1619872811155175040
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_19
+  - first:
+      213: -1806085274874082599
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_20
+  - first:
+      213: 2354012749109381409
+    second: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 965
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57954522f46abb920800000000000000
+      internalID: 3007180035008518517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 965
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef6b2a6adc91cca0800000000000000
+      internalID: -5998340766782754847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 863
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d05384160e6f0bb0800000000000000
+      internalID: -4967630891573358376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 909
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8dd32c6608b7540800000000000000
+      internalID: 5006736589586290857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 859
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fba06c2e2189730800000000000000
+      internalID: 4005972633740558103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 695
+        width: 96
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72e5c9a25a9c3030800000000000000
+      internalID: 3475822692249494143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_6
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 817
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44b30a1339f3a240800000000000000
+      internalID: 4801955625582179406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 694
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1753d33e79aa479c0800000000000000
+      internalID: -3930329005458377359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 681
+        width: 58
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ed81e7b9eecf4d0800000000000000
+      internalID: -3099340091934843333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 679
+        width: 58
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b83e5f9c2de610800000000000000
+      internalID: 1652025701307036723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 808
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affbb21722c217ed0800000000000000
+      internalID: -2418102998482042886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 683
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5fcaa8c3f325a10800000000000000
+      internalID: 1896647922333578664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 604
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2583641615d0a8d0800000000000000
+      internalID: -2837033474435349202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 535
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eef737159d80bc0800000000000000
+      internalID: -3816561740343153008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 614
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ebed997fb39ac20800000000000000
+      internalID: 3218169343357402754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 648
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8790aac86eee90200800000000000000
+      internalID: 146911136836094328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_16
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60677d6b0b5b7ada0800000000000000
+      internalID: -5933574213450893818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 361
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a762d3359b575a40800000000000000
+      internalID: 5356850978158176162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_18
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 197
+        width: 63
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0619646b410fb10800000000000000
+      internalID: 2013131806535147684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_19
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 197
+        width: 49
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08948cdb24e0589e0800000000000000
+      internalID: -1619872811155175040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_20
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 35
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da0115f20f7fe6e0800000000000000
+      internalID: -1806085274874082599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_21
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 32
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c76b8f122ba020800000000000000
+      internalID: 2354012749109381409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_0: 3007180035008518517
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_1: -5998340766782754847
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_10: -2418102998482042886
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_11: 1896647922333578664
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_12: -2837033474435349202
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_13: -3816561740343153008
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_14: 3218169343357402754
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_15: 146911136836094328
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_16: -5933574213450893818
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_17: 5356850978158176162
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_18: 2013131806535147684
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_19: -1619872811155175040
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_2: -4967630891573358376
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_20: -1806085274874082599
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_21: 2354012749109381409
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_3: 5006736589586290857
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_4: 4005972633740558103
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_5: 3475822692249494143
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_6: 4801955625582179406
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_7: -3930329005458377359
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_8: -3099340091934843333
+      sactx-0-1024x1024-Uncompressed-BotanUltAtlas-c2e15873_9: 1652025701307036723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

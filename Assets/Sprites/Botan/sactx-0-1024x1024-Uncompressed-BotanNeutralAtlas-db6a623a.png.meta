@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 4390fb227684042438a1e70091e406ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1156942162619920292
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_0
+  - first:
+      213: -5540186955582098814
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_1
+  - first:
+      213: -2198353569188677794
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_2
+  - first:
+      213: 370741203354167047
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_3
+  - first:
+      213: 5019380634207743276
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_4
+  - first:
+      213: 2018635150484964203
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_5
+  - first:
+      213: 2417933598470342557
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_6
+  - first:
+      213: -7533695471429026368
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_7
+  - first:
+      213: 6890003360132373458
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_8
+  - first:
+      213: -8702309270548927266
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_9
+  - first:
+      213: -3195528500359075757
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_10
+  - first:
+      213: 5330423871803667529
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_11
+  - first:
+      213: 1149825485200829355
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_12
+  - first:
+      213: -8362963224281985743
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_13
+  - first:
+      213: 2211543452225375397
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_14
+  - first:
+      213: 8879820704947053720
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_15
+  - first:
+      213: -8286487640504044056
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_16
+  - first:
+      213: 1634739653188266637
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_17
+  - first:
+      213: 201591369134411398
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_18
+  - first:
+      213: 6120718390286512282
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_19
+  - first:
+      213: -6228939392859496581
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_20
+  - first:
+      213: 4069918341420589081
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_21
+  - first:
+      213: 3429818863234808947
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_22
+  - first:
+      213: 8922744457522045231
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_23
+  - first:
+      213: 2253578046509563816
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_24
+  - first:
+      213: 5551587375407533900
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_25
+  - first:
+      213: 5467774231902988798
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_26
+  - first:
+      213: 5631322975892297531
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_27
+  - first:
+      213: -8572701174909474685
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_28
+  - first:
+      213: -5467823242784181745
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_29
+  - first:
+      213: 8576380117233870863
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_30
+  - first:
+      213: -4396645072895887860
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_31
+  - first:
+      213: 6505827170799486829
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_32
+  - first:
+      213: 7393314367532787655
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_33
+  - first:
+      213: -6124045618494669561
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_34
+  - first:
+      213: -9061929122605867032
+    second: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 817
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afe1a464c84e0010800000000000000
+      internalID: 1156942162619920292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 817
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282b64b215d4d13b0800000000000000
+      internalID: -5540186955582098814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 817
+        width: 48
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fbc18311ed71e0800000000000000
+      internalID: -2198353569188677794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 817
+        width: 52
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707a6810923252500800000000000000
+      internalID: 370741203354167047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 817
+        width: 52
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d6d6ec71c68a540800000000000000
+      internalID: 5019380634207743276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_5
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 817
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6306c369f1a30c10800000000000000
+      internalID: 2018635150484964203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 653
+        width: 47
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d978e4b0cc93e8120800000000000000
+      internalID: 2417933598470342557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 653
+        width: 51
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdf08b42efe27790800000000000000
+      internalID: -7533695471429026368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 653
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db10fd1d853e9f50800000000000000
+      internalID: 6890003360132373458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 653
+        width: 52
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edca75343df2b3780800000000000000
+      internalID: -8702309270548927266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 653
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358e57272c337a3d0800000000000000
+      internalID: -3195528500359075757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_11
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 653
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944be15054879f940800000000000000
+      internalID: 5330423871803667529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 489
+        width: 48
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab261fcf2005ff00800000000000000
+      internalID: 1149825485200829355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 489
+        width: 47
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d4403a149c0fb80800000000000000
+      internalID: -8362963224281985743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 489
+        width: 53
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac0c337d0bf0be10800000000000000
+      internalID: 2211543452225375397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 489
+        width: 53
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894278342e57b3b70800000000000000
+      internalID: 8879820704947053720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_16
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 489
+        width: 53
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e57718056b700d80800000000000000
+      internalID: -8286487640504044056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_17
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 489
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a2888ad03cfa610800000000000000
+      internalID: 1634739653188266637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 325
+        width: 61
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e8a0b38423cc200800000000000000
+      internalID: 201591369134411398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 325
+        width: 48
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907a3f62f821f450800000000000000
+      internalID: 6120718390286512282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 325
+        width: 41
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f1c21ef9c5e89a0800000000000000
+      internalID: -6228939392859496581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_21
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 325
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a83d0b214b7830800000000000000
+      internalID: 4069918341420589081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 325
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c7b0b851a299f20800000000000000
+      internalID: 3429818863234808947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_23
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 325
+        width: 50
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21ef243fc4f3db70800000000000000
+      internalID: 8922744457522045231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 161
+        width: 63
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af32d71b41564f10800000000000000
+      internalID: 2253578046509563816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 161
+        width: 46
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f85baed433b0d40800000000000000
+      internalID: 5551587375407533900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 161
+        width: 44
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ac94c1bf61eb40800000000000000
+      internalID: 5467774231902988798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 161
+        width: 136
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b375e89196a762e40800000000000000
+      internalID: 5631322975892297531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 164
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38862f793b5a70980800000000000000
+      internalID: -8572701174909474685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_29
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 161
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02793ffab36e14b0800000000000000
+      internalID: -5467823242784181745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 45
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08a27ae64c650770800000000000000
+      internalID: 8576380117233870863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 41
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b192c99afbf2c0800000000000000
+      internalID: -4396645072895887860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 45
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67869da757594a50800000000000000
+      internalID: 6505827170799486829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_33
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 57
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7659dee345a9660800000000000000
+      internalID: 7393314367532787655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 120
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d7651e4f4030ba0800000000000000
+      internalID: -6124045618494669561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_35
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1
+        width: 129
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef5f43a97f8d3280800000000000000
+      internalID: -9061929122605867032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_0: 1156942162619920292
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_1: -5540186955582098814
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_10: -3195528500359075757
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_11: 5330423871803667529
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_12: 1149825485200829355
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_13: -8362963224281985743
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_14: 2211543452225375397
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_15: 8879820704947053720
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_16: -8286487640504044056
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_17: 1634739653188266637
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_18: 201591369134411398
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_19: 6120718390286512282
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_2: -2198353569188677794
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_20: -6228939392859496581
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_21: 4069918341420589081
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_22: 3429818863234808947
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_23: 8922744457522045231
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_24: 2253578046509563816
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_25: 5551587375407533900
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_26: 5467774231902988798
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_27: 5631322975892297531
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_28: -8572701174909474685
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_29: -5467823242784181745
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_3: 370741203354167047
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_30: 8576380117233870863
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_31: -4396645072895887860
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_32: 6505827170799486829
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_33: 7393314367532787655
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_34: -6124045618494669561
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_35: -9061929122605867032
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_4: 5019380634207743276
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_5: 2018635150484964203
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_6: 2417933598470342557
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_7: -7533695471429026368
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_8: 6890003360132373458
+      sactx-0-1024x1024-Uncompressed-BotanNeutralAtlas-db6a623a_9: -8702309270548927266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
