@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 1f3f10bff78eb7548a56145b84ff0a7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4525043160726262646
+    second: Tiro sangue_0
+  - first:
+      213: -8590694271744280091
+    second: Tiro sangue_1
+  - first:
+      213: 695393850154624608
+    second: Tiro sangue_2
+  - first:
+      213: 9186504878277086620
+    second: Tiro sangue_3
+  - first:
+      213: 761623034920132119
+    second: Tiro sangue_4
+  - first:
+      213: -7944825026072777490
+    second: Tiro sangue_5
+  - first:
+      213: 4032085084818361412
+    second: Tiro sangue_6
+  - first:
+      213: -4707184117143944573
+    second: Tiro sangue_7
+  - first:
+      213: -2157676857240720115
+    second: Tiro sangue_8
+  - first:
+      213: 1118314813414787862
+    second: Tiro sangue_9
+  - first:
+      213: 3358274297133415061
+    second: Tiro sangue_10
+  - first:
+      213: 7806411917882214577
+    second: Tiro sangue_11
+  - first:
+      213: 6150956026414922770
+    second: Tiro sangue_12
+  - first:
+      213: 6643147469096348974
+    second: Tiro sangue_13
+  - first:
+      213: 2994647111665578749
+    second: Tiro sangue_14
+  - first:
+      213: -6584013704509989076
+    second: Tiro sangue_15
+  - first:
+      213: 8801529770980147318
+    second: Tiro sangue_16
+  - first:
+      213: 7933353686344823025
+    second: Tiro sangue_17
+  - first:
+      213: -7782714172246175211
+    second: Tiro sangue_18
+  - first:
+      213: -1013601328349272059
+    second: Tiro sangue_19
+  - first:
+      213: -4077848285154093312
+    second: Tiro sangue_20
+  - first:
+      213: 2626470850072826251
+    second: Tiro sangue_21
+  - first:
+      213: 5584390707897218383
+    second: Tiro sangue_22
+  - first:
+      213: -4737043975129514461
+    second: Tiro sangue_23
+  - first:
+      213: -2397317514778209293
+    second: Tiro sangue_24
+  - first:
+      213: 6720642776994740465
+    second: Tiro sangue_25
+  - first:
+      213: -2910491391630935781
+    second: Tiro sangue_26
+  - first:
+      213: -7702237392531735524
+    second: Tiro sangue_27
+  - first:
+      213: -5604514048877076321
+    second: Tiro sangue_28
+  - first:
+      213: 3604910294384942946
+    second: Tiro sangue_29
+  - first:
+      213: 699657968123071993
+    second: Tiro sangue_30
+  - first:
+      213: 3146927869192287597
+    second: Tiro sangue_31
+  - first:
+      213: 4669070973838692591
+    second: Tiro sangue_32
+  - first:
+      213: -63123496725868941
+    second: Tiro sangue_33
+  - first:
+      213: 5516885011945115676
+    second: Tiro sangue_34
+  - first:
+      213: 658283886751723294
+    second: Tiro sangue_35
+  - first:
+      213: 810002541614262783
+    second: Tiro sangue_36
+  - first:
+      213: 5453113754032630277
+    second: Tiro sangue_37
+  - first:
+      213: 2431679797072274008
+    second: Tiro sangue_38
+  - first:
+      213: -3712513582913786633
+    second: Tiro sangue_39
+  - first:
+      213: 2432313637311032785
+    second: Tiro sangue_40
+  - first:
+      213: -7765967090752356882
+    second: Tiro sangue_41
+  - first:
+      213: 5173222447069065241
+    second: Tiro sangue_42
+  - first:
+      213: -7145489085407702203
+    second: Tiro sangue_43
+  - first:
+      213: 8985402148597297603
+    second: Tiro sangue_44
+  - first:
+      213: 8746929809700916534
+    second: Tiro sangue_45
+  - first:
+      213: -5364999859170149658
+    second: Tiro sangue_46
+  - first:
+      213: -4722693868744609076
+    second: Tiro sangue_47
+  - first:
+      213: 8574224906930420963
+    second: Tiro sangue_48
+  - first:
+      213: -1324844790461436556
+    second: Tiro sangue_49
+  - first:
+      213: 1588260105608500812
+    second: Tiro sangue_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiro sangue_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 1713
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673566ca7ce2cce30800000000000000
+      internalID: 4525043160726262646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_1
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 828
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9f2b64319b7c880800000000000000
+      internalID: -8590694271744280091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 692
+        width: 146
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0662579b50986a900800000000000000
+      internalID: 695393850154624608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_3
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 803
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d491db3850d7f70800000000000000
+      internalID: 9186504878277086620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_4
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 813
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e5b217d14d19a00800000000000000
+      internalID: 761623034920132119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_5
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 811
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec6c467bbf4eb190800000000000000
+      internalID: -7944825026072777490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 723
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ccfb09508d4f730800000000000000
+      internalID: 4032085084818361412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_7
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 385
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38246453cf8bcaeb0800000000000000
+      internalID: -4707184117143944573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 142
+        width: 188
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de51884546e02e0800000000000000
+      internalID: -2157676857240720115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_9
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 257
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b45a0d56d058f00800000000000000
+      internalID: 1118314813414787862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 126
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a36fa2eacfa9e20800000000000000
+      internalID: 3358274297133415061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 96
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ceb77742f55c60800000000000000
+      internalID: 7806411917882214577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_12
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c7287bae59c5550800000000000000
+      internalID: 6150956026414922770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_13
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 168
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de50e1d63313c50800000000000000
+      internalID: 6643147469096348974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_14
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 150
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f9768eaf1f8920800000000000000
+      internalID: 2994647111665578749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_15
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 136
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd06a5b62e0a4a0800000000000000
+      internalID: -6584013704509989076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_16
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700c47b1b0552a70800000000000000
+      internalID: 8801529770980147318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_17
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f07e10252fe81e60800000000000000
+      internalID: 7933353686344823025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_18
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5125ed6e1be3ef390800000000000000
+      internalID: -7782714172246175211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_19
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 130
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a0ef46f6fee1f0800000000000000
+      internalID: -1013601328349272059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_20
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 134
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007547b07929867c0800000000000000
+      internalID: -4077848285154093312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_21
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 112
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81528f8259137420800000000000000
+      internalID: 2626470850072826251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_22
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b43fe2cdbf7d40800000000000000
+      internalID: 5584390707897218383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_23
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 106
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e30014a93a24eb0800000000000000
+      internalID: -4737043975129514461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_24
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 106
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f392ddfb640bbed0800000000000000
+      internalID: -2397317514778209293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_25
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 114
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f0198ff4844d50800000000000000
+      internalID: 6720642776994740465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_26
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 95
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b197100ff7bdb97d0800000000000000
+      internalID: -2910491391630935781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_27
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 87
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3a6256e72c1590800000000000000
+      internalID: -7702237392531735524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_28
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 82
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90eef1aa24c832b0800000000000000
+      internalID: -5604514048877076321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f96f720d6370230800000000000000
+      internalID: 3604910294384942946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_30
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 90
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd4f3e073fa5b900800000000000000
+      internalID: 699657968123071993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_31
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 82
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65bbf059322cab20800000000000000
+      internalID: 3146927869192287597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_32
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 61
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe01eba105fdbc040800000000000000
+      internalID: 4669070973838692591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_33
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e8ca0a38dbf1ff0800000000000000
+      internalID: -63123496725868941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 65
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105aab40b9ef8c40800000000000000
+      internalID: 5516885011945115676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_35
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 44
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f233f05b1b22900800000000000000
+      internalID: 658283886751723294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_36
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 63
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e4102505bd3b00800000000000000
+      internalID: 810002541614262783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_37
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 51
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a69e4411a5dab40800000000000000
+      internalID: 5453113754032630277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_38
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 64
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852acff44ef0fb120800000000000000
+      internalID: 2431679797072274008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_39
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 51
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc6c9ae0908a7cc0800000000000000
+      internalID: -3712513582913786633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_40
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 23
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd234ebd5051c120800000000000000
+      internalID: 2432313637311032785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_41
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf45aa31eb93490800000000000000
+      internalID: -7765967090752356882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_42
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f0ad186afac740800000000000000
+      internalID: 5173222447069065241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_43
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 46
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543d7d5098f16dc90800000000000000
+      internalID: -7145489085407702203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_44
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17c2fb5af82bc70800000000000000
+      internalID: 8985402148597297603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_45
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d8f769156536970800000000000000
+      internalID: 8746929809700916534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_46
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 37
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea74269d01bb85b0800000000000000
+      internalID: -5364999859170149658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_47
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 32
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2ff82c2fe957eb0800000000000000
+      internalID: -4722693868744609076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_48
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 27
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecf4e9ef14cdf670800000000000000
+      internalID: 8574224906930420963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_49
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 17
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47de402bea43d9de0800000000000000
+      internalID: -1324844790461436556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiro sangue_50
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4618bda622aa0610800000000000000
+      internalID: 1588260105608500812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiro sangue_0: 4525043160726262646
+      Tiro sangue_1: -8590694271744280091
+      Tiro sangue_10: 3358274297133415061
+      Tiro sangue_11: 7806411917882214577
+      Tiro sangue_12: 6150956026414922770
+      Tiro sangue_13: 6643147469096348974
+      Tiro sangue_14: 2994647111665578749
+      Tiro sangue_15: -6584013704509989076
+      Tiro sangue_16: 8801529770980147318
+      Tiro sangue_17: 7933353686344823025
+      Tiro sangue_18: -7782714172246175211
+      Tiro sangue_19: -1013601328349272059
+      Tiro sangue_2: 695393850154624608
+      Tiro sangue_20: -4077848285154093312
+      Tiro sangue_21: 2626470850072826251
+      Tiro sangue_22: 5584390707897218383
+      Tiro sangue_23: -4737043975129514461
+      Tiro sangue_24: -2397317514778209293
+      Tiro sangue_25: 6720642776994740465
+      Tiro sangue_26: -2910491391630935781
+      Tiro sangue_27: -7702237392531735524
+      Tiro sangue_28: -5604514048877076321
+      Tiro sangue_29: 3604910294384942946
+      Tiro sangue_3: 9186504878277086620
+      Tiro sangue_30: 699657968123071993
+      Tiro sangue_31: 3146927869192287597
+      Tiro sangue_32: 4669070973838692591
+      Tiro sangue_33: -63123496725868941
+      Tiro sangue_34: 5516885011945115676
+      Tiro sangue_35: 658283886751723294
+      Tiro sangue_36: 810002541614262783
+      Tiro sangue_37: 5453113754032630277
+      Tiro sangue_38: 2431679797072274008
+      Tiro sangue_39: -3712513582913786633
+      Tiro sangue_4: 761623034920132119
+      Tiro sangue_40: 2432313637311032785
+      Tiro sangue_41: -7765967090752356882
+      Tiro sangue_42: 5173222447069065241
+      Tiro sangue_43: -7145489085407702203
+      Tiro sangue_44: 8985402148597297603
+      Tiro sangue_45: 8746929809700916534
+      Tiro sangue_46: -5364999859170149658
+      Tiro sangue_47: -4722693868744609076
+      Tiro sangue_48: 8574224906930420963
+      Tiro sangue_49: -1324844790461436556
+      Tiro sangue_5: -7944825026072777490
+      Tiro sangue_50: 1588260105608500812
+      Tiro sangue_6: 4032085084818361412
+      Tiro sangue_7: -4707184117143944573
+      Tiro sangue_8: -2157676857240720115
+      Tiro sangue_9: 1118314813414787862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

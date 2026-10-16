@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 9c3a649e22b37674396f1afbca48346f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2160913758994177746
+    second: Botan_4H_0
+  - first:
+      213: 8080861975913302566
+    second: Botan_4H_1
+  - first:
+      213: -5560066501668139049
+    second: Botan_4H_2
+  - first:
+      213: 4768380930930254803
+    second: Botan_4H_3
+  - first:
+      213: -5369606201398327387
+    second: Botan_4H_4
+  - first:
+      213: 7160948409477764155
+    second: Botan_4H_5
+  - first:
+      213: 1063414287668817366
+    second: Botan_4H_6
+  - first:
+      213: 1597347389331192769
+    second: Botan_4H_7
+  - first:
+      213: -6758213329652781341
+    second: Botan_4H_8
+  - first:
+      213: 1230816023422966247
+    second: Botan_4H_9
+  - first:
+      213: -1523007385494712010
+    second: Botan_4H_10
+  - first:
+      213: -5545094501153550517
+    second: Botan_4H_11
+  - first:
+      213: -1766334418756165602
+    second: Botan_4H_12
+  - first:
+      213: -5817959443624305585
+    second: Botan_4H_13
+  - first:
+      213: 280992021155954413
+    second: Botan_4H_14
+  - first:
+      213: -9002521556754716551
+    second: Botan_4H_15
+  - first:
+      213: 3778926586269338170
+    second: Botan_4H_16
+  - first:
+      213: -5661249669975864037
+    second: Botan_4H_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Botan_4H_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 47
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e5ec9264e202e0800000000000000
+      internalID: -2160913758994177746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 58
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a0641272df42070800000000000000
+      internalID: 8080861975913302566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 58
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8588a9fca6d2b0800000000000000
+      internalID: -5560066501668139049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 60
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d328d55131bc2240800000000000000
+      internalID: 4768380930930254803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 72
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a70be5fb935b75b0800000000000000
+      internalID: -5369606201398327387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_5
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 71
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3412d953acc06360800000000000000
+      internalID: 7160948409477764155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_6
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 0
+        width: 71
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd239119a102ce00800000000000000
+      internalID: 1063414287668817366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_7
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 0
+        width: 103
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbbbfbccfaea2610800000000000000
+      internalID: 1597347389331192769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_8
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 0
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee6cb188c00632a0800000000000000
+      internalID: -6758213329652781341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_9
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 0
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91cf3f6acb41110800000000000000
+      internalID: 1230816023422966247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_10
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 0
+        width: 103
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6319a452ad03ddae0800000000000000
+      internalID: -1523007385494712010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_11
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 0
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f45cc2eeddb03b0800000000000000
+      internalID: -5545094501153550517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_12
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 0
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e102e7f5438bc77e0800000000000000
+      internalID: -1766334418756165602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_13
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 0
+        width: 133
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd42df5b4724fa0800000000000000
+      internalID: -5817959443624305585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_14
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 0
+        width: 92
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee38b521c846e300800000000000000
+      internalID: 280992021155954413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_15
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 0
+        width: 103
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a6de675e901380800000000000000
+      internalID: -9002521556754716551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_16
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 0
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a0dd665b1717430800000000000000
+      internalID: 3778926586269338170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botan_4H_17
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 0
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8a447b633f61b0800000000000000
+      internalID: -5661249669975864037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Botan_4H_0: -2160913758994177746
+      Botan_4H_1: 8080861975913302566
+      Botan_4H_10: -1523007385494712010
+      Botan_4H_11: -5545094501153550517
+      Botan_4H_12: -1766334418756165602
+      Botan_4H_13: -5817959443624305585
+      Botan_4H_14: 280992021155954413
+      Botan_4H_15: -9002521556754716551
+      Botan_4H_16: 3778926586269338170
+      Botan_4H_17: -5661249669975864037
+      Botan_4H_2: -5560066501668139049
+      Botan_4H_3: 4768380930930254803
+      Botan_4H_4: -5369606201398327387
+      Botan_4H_5: 7160948409477764155
+      Botan_4H_6: 1063414287668817366
+      Botan_4H_7: 1597347389331192769
+      Botan_4H_8: -6758213329652781341
+      Botan_4H_9: 1230816023422966247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
